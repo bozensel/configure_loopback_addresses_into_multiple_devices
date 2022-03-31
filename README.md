@@ -11,6 +11,6 @@ Netmiko is a multi-vendor SSH Python library that simplifies the process of conn
 
 A loopback interface is a virtual interface that is always up and reachable as long as at least one of the IP interfaces on the switch is operational. As a result, a loopback interface is useful for debugging tasks since its IP address can always be pinged if any other switch interface is up.
 
-The output after the code runs: 
+The sample output from one of the node after the code runs: 
 
 ![image](https://user-images.githubusercontent.com/94804863/161009053-64972fe2-048d-44da-8778-592cdbd9d3c4.png)
