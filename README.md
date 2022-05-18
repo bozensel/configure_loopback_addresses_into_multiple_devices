@@ -5,7 +5,7 @@ This repo is to explain how to configure 100 loopback interfaces in multiple Nok
 
 Netmiko is used to connect to devices. 
 
-While connecting to each device, the same IP is used. The ports for each device is different. 
+While connecting to each device, the same IP is used. The port for each device is different. 
 
 Netmiko is a multi-vendor SSH Python library that simplifies the process of connecting to network devices via SSH. This library adds vendor-specific logic to paramiko, which is the de-facto SSH library in Python.
 
